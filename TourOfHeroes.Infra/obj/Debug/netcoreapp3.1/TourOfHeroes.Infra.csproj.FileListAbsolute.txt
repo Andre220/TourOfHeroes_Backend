@@ -1,0 +1,16 @@
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\bin\Debug\netcoreapp3.1\TourOfHeroes.Infra.deps.json
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\bin\Debug\netcoreapp3.1\TourOfHeroes.Infra.runtimeconfig.json
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\bin\Debug\netcoreapp3.1\TourOfHeroes.Infra.runtimeconfig.dev.json
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\bin\Debug\netcoreapp3.1\TourOfHeroes.Infra.dll
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\bin\Debug\netcoreapp3.1\TourOfHeroes.Infra.pdb
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\bin\Debug\netcoreapp3.1\TourOfHeroes.Domain.dll
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\bin\Debug\netcoreapp3.1\TourOfHeroes.Domain.pdb
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.csproj.AssemblyReference.cache
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.AssemblyInfoInputs.cache
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.AssemblyInfo.cs
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.csproj.CoreCompileInputs.cache
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.csproj.CopyComplete
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.dll
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.pdb
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Infra\obj\Debug\netcoreapp3.1\TourOfHeroes.Infra.genruntimeconfig.cache

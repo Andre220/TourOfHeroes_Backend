@@ -1,0 +1,10 @@
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\bin\Debug\netcoreapp3.1\TourOfHeroes.Domain.deps.json
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\bin\Debug\netcoreapp3.1\TourOfHeroes.Domain.dll
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\bin\Debug\netcoreapp3.1\TourOfHeroes.Domain.pdb
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\obj\Debug\netcoreapp3.1\TourOfHeroes.Domain.csproj.AssemblyReference.cache
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\obj\Debug\netcoreapp3.1\TourOfHeroes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\obj\Debug\netcoreapp3.1\TourOfHeroes.Domain.AssemblyInfoInputs.cache
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\obj\Debug\netcoreapp3.1\TourOfHeroes.Domain.AssemblyInfo.cs
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\obj\Debug\netcoreapp3.1\TourOfHeroes.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\obj\Debug\netcoreapp3.1\TourOfHeroes.Domain.dll
+E:\Projetos\WEB\Backend\TourOfHeroes_Backend\TourOfHeroes.Domain\obj\Debug\netcoreapp3.1\TourOfHeroes.Domain.pdb
